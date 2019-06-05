@@ -1,0 +1,21 @@
+{
+  "name": "@datadesk/prettier-config",
+  "version": "1.0.0",
+  "description": "A consistent source of prettier configuration for Data Desk projects.",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datadesk/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "configuration",
+    "formatting"
+  ],
+  "author": "Ryan Murphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/datadesk/prettier-config/issues"
+  },
+  "homepage": "https://github.com/datadesk/prettier-config#readme"
+}
