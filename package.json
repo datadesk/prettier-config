@@ -1,5 +1,5 @@
 {
-  "name": "@datadesk/prettier-config",
+  "name": "@datagraphics/prettier-config",
   "version": "1.0.0",
   "description": "A consistent source of prettier configuration for Data Desk projects.",
   "main": "index.json",

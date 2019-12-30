@@ -1,4 +1,4 @@
-# @newswire/prettier-config
+# @datagraphics/prettier-config
 
 A consistent source of prettier configuration for Data Desk projects.
 
@@ -7,9 +7,9 @@ A consistent source of prettier configuration for Data Desk projects.
 Install:
 
 ```sh
-npm install --save-dev @datadesk/prettier-config prettier
+npm install --save-dev @datagraphics/prettier-config prettier
 # or
-yarn add --dev @datadesk/prettier-config prettier
+yarn add --dev @datagraphics/prettier-config prettier
 ```
 
 Add to `package.json` (or any of the [other compatible prettier configuration options](https://prettier.io/docs/en/configuration.html#sharing-configurations):
@@ -17,7 +17,7 @@ Add to `package.json` (or any of the [other compatible prettier configuration op
 ```json
 {
   // ...
-  "prettier": "@datadesk/prettier-config"
+  "prettier": "@datagraphics/prettier-config"
 }
 ```
 
